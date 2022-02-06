@@ -34,7 +34,7 @@
 			<key>ProxyServer</key>
 			<string>127.0.0.1</string>
 			<key>ProxyServerPort</key>
-			<integer>41090</integer>
+			<integer>41091</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
